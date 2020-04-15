@@ -1,0 +1,16 @@
+PODS:
+  - ADMine_Category (0.1.0)
+
+DEPENDENCIES:
+  - ADMine_Category (from `../`)
+
+EXTERNAL SOURCES:
+  ADMine_Category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADMine_Category: 92ed42b4334c171362235765a528eab98af194c1
+
+PODFILE CHECKSUM: de2bd20317a7c2a6abfa51cfd6dba0c8b75c8db5
+
+COCOAPODS: 1.9.1
