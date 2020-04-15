@@ -1,15 +1,22 @@
 PODS:
-  - ADMine_Category (0.1.0)
+  - ADMine_Category (0.1.0):
+    - CTMediator
+  - CTMediator (31)
 
 DEPENDENCIES:
   - ADMine_Category (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
 
 EXTERNAL SOURCES:
   ADMine_Category:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ADMine_Category: 92ed42b4334c171362235765a528eab98af194c1
+  ADMine_Category: df8d599e9b77f7810abf7db862275dca84b57df3
+  CTMediator: 24a1279bd0909608c7d6a704e660149cc64e5f87
 
 PODFILE CHECKSUM: de2bd20317a7c2a6abfa51cfd6dba0c8b75c8db5
 

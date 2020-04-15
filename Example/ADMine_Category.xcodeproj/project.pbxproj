@@ -309,10 +309,12 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ADMine_Category_Example/Pods-ADMine_Category_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/ADMine_Category/ADMine_Category.framework",
+				"${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ADMine_Category.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CTMediator.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
